@@ -1,0 +1,5 @@
+/Users/maxkhanov/Projects/genusSim/genusSim/bin/Debug/genusSim.exe
+/Users/maxkhanov/Projects/genusSim/genusSim/bin/Debug/genusSim.pdb
+/Users/maxkhanov/Projects/genusSim/genusSim/obj/x86/Debug/genusSim.csproj.CoreCompileInputs.cache
+/Users/maxkhanov/Projects/genusSim/genusSim/obj/x86/Debug/genusSim.exe
+/Users/maxkhanov/Projects/genusSim/genusSim/obj/x86/Debug/genusSim.pdb
